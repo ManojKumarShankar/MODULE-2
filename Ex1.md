@@ -1,5 +1,6 @@
 # Ex.No:1
 # Ex.Name:Write A CPP Program to allocate memory dynamically for a double array. (Note: p_array = new type [size]; )
+# Date:08/09/2025
 ## Aim:
 To write a C++ program that demonstrates dynamic memory allocation for a variable using the new operator. The program allocates memory at runtime for a double variable, stores user input, and displays the value
 
